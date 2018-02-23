@@ -1,0 +1,3 @@
+[submodule "SuggestNS"]
+	path = SuggestNS
+	url = https://github.com/UMWACM/SuggestNS.git
